@@ -1,0 +1,20 @@
+Dear [insert name of recipient], 
+
+I received the sample dataset from the Data Engineering team and I’ve been analyzing the sample on behalf of the Data Science team. 
+
+I found the following insights as part of the analysis: 
+
+Fruit & vegetables are the 2 most frequently bought product categories 
+Non-members are the most frequent buyers within the store 
+Cash is the most frequently used payment method 
+11am is the busiest hour with regards to number of transactions 
+As a reminder, the client indicated that they wanted to know the following: “How to better stock the items that they sell.” 
+
+With respect to this business question, my recommendations are as follows: 
+
+This is a very broad statement and in order to tackle this with better accuracy, we need to identify a specific problem statement that the business would like to solve. For example, can we predict the demand of products on an hourly basis in order to procure products more intelligently? 
+We need more data. The current sample only covers 7 days and 1 store. 
+Based on the problem statement that we move forward with, we will need more datasets to help describe the outcome that we’re trying to model. For example, if we’re modeling demand for products, we may want to include information about stock levels or weather conditions. 
+Best regards, 
+
+[name of sender]
